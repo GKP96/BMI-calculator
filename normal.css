@@ -1,0 +1,11 @@
+.container1 {
+    display: flex;
+    justify-content: center;
+}
+
+.container2 {
+    border: 3px solid goldenrod;
+    border-radius: 14px;
+    display: flex;
+    justify-content: center;
+}

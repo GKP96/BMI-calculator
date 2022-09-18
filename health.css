@@ -1,0 +1,38 @@
+.container {
+    text-align: center;
+    color: white;
+}
+
+.form {
+    text-align: center;
+    background-color: black;
+    width: 400px;
+    border: 3px solid white;
+    color: white;
+    font-size: 30px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 100px;
+    margin-bottom: auto;
+    border-radius: 14px;
+}
+
+input {
+    font-size: 23px;
+}
+
+button {
+    font-size: 40px;
+    background-color: blanchedalmond;
+    border: solid gold;
+    border-radius: 20px;
+    width: 150px;
+    height: 70px;
+}
+.gau{
+    height: 100%;
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
